@@ -1,0 +1,22 @@
+<!-- Author: Jeff Foster: jobs@foster2.com -->
+
+<!-- Copyright 2010 Jeff Foster. All rights reserved. -->
+<!-- You may not use this file without consent or purchasing -->
+<!-- through Robot Meals or its vendors. -->
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<media>
+
+	<mediaInfo>
+		<!-- Media Title -->
+		<mediaTitle>Some Adobe Evangelist Movie</mediaTitle>
+		
+		<!-- Media URL -->
+		<mediaURL>http://adobe.edgeboss.net/download/adobe/adobetv/platform_evangelism/believe.mp4</mediaURL>
+		
+		<!-- Initial Volume of media between 1 (lowest) & 10 (highest). Decimal values not permitted -->
+		<mediaVolume>3</mediaVolume>
+	</mediaInfo>
+	
+</media>

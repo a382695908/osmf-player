@@ -1,0 +1,9 @@
+h2. This project is a small part of Flash desktop app that creates custom video players using Robotlegs MVC ("robotlegs.org":http://www.robotlegs.org) framework and Adobe's Open Source Media Framework ("osmf.org":http://www.osmf.org). The core of the code can be found in the "src" directory.
+
+h4. Notes
+
+*This project will not compile as a complete working player*. It is only here to showcase code proficiency. Several proprietary files have been removed. This code is from 2010.
+
+All classes in this project are completely "decoupled", as the intent of the application is to create a customized video player generator with each class being a fully customizable part of the application.
+
+
